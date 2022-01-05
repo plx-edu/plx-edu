@@ -5,14 +5,14 @@
 - Infographics and design
 - Game developement
 ---
-<!--
-### Skills
-> soon™ ?
----
--->
 
-### Tools of the trade
-<details><summary>Click goes the mouse</summary>
+### Projects
+- <a href="">This GitHub...</a>
+- <a href="nihil.is:4000">Personal website (WIP)</a>
+---
+
+### Skills
+<details><summary>And tools of the trade</summary>
 <div>
 
 <section style="display: flex; flex-direction: row;">
@@ -135,8 +135,16 @@
 
 ---
 
+
+
+
+
+
+
+
+
  ### Who I am
-<details><summary>Tap goes the pad</summary>
+<details><summary>Someone who focuses on the how and the what...</summary>
 <divp>
 
 ```js
