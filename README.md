@@ -7,8 +7,8 @@
 ---
 
 ### Projects
-- <a href="">This GitHub...</a>
-- <a href="nihil.is:4000">Personal website (WIP)</a>
+- This [Github] (https://plx-edu.github.com).
+- Personal [site (wip)](http://nihil.is:4000).
 ---
 
 ### Skills
