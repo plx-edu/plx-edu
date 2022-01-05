@@ -8,10 +8,8 @@
 
 ### Projects
 <div>
-<!-- - [The obvious: here](https://github.com/plx-edu) -->
-<!-- - [Personal site (wip).](http://nihil.is:4000) -->
-<a href="http://nihil.is:4000" target="_blank"><img src="https://img.shields.io/badge/Personal(WIP)-ff8e30.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Gitub"></a>
-<a href="https://github.com/plx-edu?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/This_Github-000.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Gitub"></a>
+     <a href="http://nihil.is:4000" target="_blank"><img src="https://img.shields.io/badge/Personal(WIP)-ff3643.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Gitub"></a>
+    <a href="https://github.com/plx-edu?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repositories-000.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Gitub"></a>
 </div>
 
 ---
