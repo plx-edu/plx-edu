@@ -2,7 +2,7 @@
 
 ### What I do
 - Web & app developement
-- Infographics and design
+- Infographics & design
 - Game developement
 ---
 
