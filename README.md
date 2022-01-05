@@ -12,6 +12,9 @@
 -->
 
 ### Tools of the trade
+<details><summary>Click goes the mouse</summary>
+<div>
+
 <section style="display: flex; flex-direction: row;">
     <section style="margin: 5px">
         <h4>Languages:</h4>
@@ -35,7 +38,6 @@
         </section>
     </section>
 </section>
-
 
 <section style="display: flex; flex-direction: row;">
     <section style="margin: 5px">
@@ -92,8 +94,6 @@
     </section>
 </section>
 
-
-
 <!--
 <img src="https://img.shields.io/badge/docker-394d54.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -129,9 +129,16 @@
 <!--
 <img src="https://img.shields.io/badge/Curriculum_Vitae-blue.svg?style=for-the-badge&logo=🌱&logoColor=white"/>
 -->
+
+</p>
+</details>
+
 ---
 
-### Who I am 
+ ### Who I am
+<details><summary>Tap goes the pad</summary>
+<divp>
+
 ```js
 import getIntro from "obligatoryGenericClicheIntro.js";
 
@@ -158,4 +165,8 @@ if(confirm("Skip obligatory generic cliché intro ?")){
     xav.describeSelf();
 }
 ```
+
+</divp>
+</details>
+
 
