@@ -12,29 +12,29 @@
 -->
 
 ### Tools of the trade
-<section style="display: flex; flex-direction: row;">
-    <section style="margin: 5px">
+<div style="display: flex; flex-direction: row;">
+    <div style="margin: 5px">
         <h4>Languages:</h4>
-        <section>
+        <div>
         <img src="https://img.shields.io/badge/java-5382A1.svg?style=for-the-badge&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/python-3776ab.svg?style=for-the-badge&logo=python&logoColor=white"/>
-        </section>
-        <section>
+        </div>
+        <div>
         <img src="https://img.shields.io/badge/sql-f29111.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
         <img src="https://img.shields.io/badge/gd_script-478cbf.svg?style=for-the-badge&logo=godotengine&logoColor=white"/>
-        </section>
-    </section>
-    <section style="margin: 5px">
+        </div>
+    </div>
+    <div style="margin: 5px">
         <h4>Editors:</h4>
-        <section>
+        <div>
         <img src="https://img.shields.io/badge/eclipse-F7941E.svg?style=for-the-badge&logo=eclipseide&logoColor=white"/>
         <img src="https://img.shields.io/badge/vscode-0065A9.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-        </section>
-        <section>
+        </div>
+        <div>
         <img src="https://img.shields.io/badge/pycharm-1bd88a.svg?style=for-the-badge&logo=pycharm&logoColor=white"/>
-        </section>
-    </section>
-</section>
+        </div>
+    </div>
+</div>
 
 
 <section style="display: flex; flex-direction: row;">
