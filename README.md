@@ -4,6 +4,7 @@
 - Web & app developement
 - Infographics & design
 - Game developement
+
 ---
 
 ### Projects
@@ -137,14 +138,6 @@
 </details>
 
 ---
-
-
-
-
-
-
-
-
 
  ### Who I am
 <details><summary>Someone who focuses on the how and the what...</summary>
