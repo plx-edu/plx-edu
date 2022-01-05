@@ -1,6 +1,7 @@
+
 ### Who I am 
 ```css
-@insert 'genericIntro.txt';
+@insert 'clicheGenericIntro.txt';
 ```
 ---
 
@@ -15,14 +16,22 @@
 
 ### Tools
 #### Languages:
+<section style="margin: 0;">
+<p style="margin: 0;">
 <img src="https://img.shields.io/badge/java-5382A1.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776ab.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+<p style="margin: 0;">
 <img src="https://img.shields.io/badge/sql-f29111.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+</section>
 
 #### Web:
+<section>
 <img src="https://img.shields.io/badge/html-e44d26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-264de4.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/sass-CD6799.svg?style=for-the-badge&logo=sass&logoColor=white"/>
+</section>
 
 <img src="https://img.shields.io/badge/javascript-f27a10.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
