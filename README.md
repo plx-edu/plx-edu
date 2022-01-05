@@ -1,20 +1,46 @@
 
-### Who I am 
-```css
-@insert 'clicheGenericIntro.txt';
+### Who am I 
+```js
+import getIntro from "obligatoryGenericClicheIntro.js";
+
+class User{
+    constructor(name, profession){
+        this.name = name;
+        this.profession = profession;
+    }
+
+    describeSelf(){
+        alert(getIntro(this.name, this.profession));
+    }
+
+    isGrateful(){
+        alert(`${this.name} is happy to skip the boring part.`);
+    }
+}
+
+let xav = new User("Xavier", "App. Developper");
+
+if(confirm("Skip obligatory generic cliché intro ?")){
+    xav.isGrateful();
+}else{
+    xav.describeSelf();
+}
 ```
 ---
 
 ### What I do
-- App & Game developement
+- Web & app developement
 - Infographics and design
+- Game developement
 ---
 
+<!--
 ### Skills
-> soon™
+> soon™ ?
 ---
+-->
 
-### Tools
+### Tools of the trade
 #### Languages:
 <section style="margin: 0;">
 <img src="https://img.shields.io/badge/java-5382A1.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -50,6 +76,7 @@
 <section>
 <img src="https://img.shields.io/badge/postgres-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </section>
+
 
 #### Graphics:
 <!--
