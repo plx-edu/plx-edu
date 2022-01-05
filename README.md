@@ -168,12 +168,12 @@ class User{
     }
 }
 
-let xav = new User("Xavier", "App. Developper");
+let xac = new User("Xavier", "App. Developper");
 
 if(confirm("Skip obligatory generic cliché intro ?")){
-    xav.isGrateful();
+    xac.isGrateful();
 }else{
-    xav.describeSelf();
+    xac.describeSelf();
 }
 ```
 
