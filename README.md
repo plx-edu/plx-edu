@@ -7,8 +7,8 @@
 ---
 
 ### Projects
-- This [Github] (https://plx-edu.github.com).
-- Personal [site (wip)](http://nihil.is:4000).
+- this.[Github](https://github.com/plx-edu)
+- Personal [site (wip).](http://nihil.is:4000)
 ---
 
 ### Skills
