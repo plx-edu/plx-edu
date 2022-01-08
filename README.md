@@ -161,7 +161,7 @@ class User{
     }
 }
 
-let xac = new User("Xavier", "App. Developper");
+const xac = new User("Xavier", "App. Developper");
 
 if(confirm("Skip obligatory generic cliché intro ?")){
     xac.isGrateful();
