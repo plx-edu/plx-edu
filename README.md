@@ -10,7 +10,7 @@
 
 <div>
      <a href="http://nihil.is:4000" target="_blank"><img src="https://img.shields.io/badge/Personal(WIP)-ff3643.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Personal Project"></a>
-    <a href="https://shareme-xwd.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/ShareMe_App-ef4444.svg?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Social Media App - Group Project"></a>
+    <a href="https://shareme-xwd.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/ShareMe_App-e7967b.svg?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Social Media App - Group Project"></a>
     <a href="https://github.com/plx-edu?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repositories-000.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Github"></a>
 </div>
 
