@@ -1,21 +1,23 @@
-
-
 ### What I do
-- Web & app developement
-- Infographics & design
-- Game developement
+
+-   Web & app developement
+-   Infographics & design
+-   Game developement
 
 ---
 
 ### Projects
+
 <div>
      <a href="http://nihil.is:4000" target="_blank"><img src="https://img.shields.io/badge/Personal(WIP)-ff3643.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Gitub"></a>
+    <a href="https://shareme-xwd.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/ShareMe_App-ef4444.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Gitub"></a>
     <a href="https://github.com/plx-edu?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repositories-000.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Gitub"></a>
 </div>
 
 ---
 
 ### Skills
+
 <details><summary>And tools of the trade</summary>
 <div>
 
@@ -139,38 +141,37 @@
 
 ---
 
- ### Who I am
+### Who I am
+
 <details><summary>Someone who focuses on the how and the what...</summary>
 <divp>
 
 ```js
 import getIntro from "obligatoryGenericClicheIntro.js";
 
-class User{
-    constructor(name, profession){
-        this.name = name;
-        this.profession = profession;
-    }
+class User {
+	constructor(name, profession) {
+		this.name = name;
+		this.profession = profession;
+	}
 
-    describeSelf(){
-        alert(getIntro(this.name, this.profession));
-    }
+	describeSelf() {
+		alert(getIntro(this.name, this.profession));
+	}
 
-    isGrateful(){
-        alert(`${this.name} is happy to skip the boring part.`);
-    }
+	isGrateful() {
+		alert(`${this.name} is happy to skip the boring part.`);
+	}
 }
 
 const xac = new User("Xavier", "App. Developper");
 
-if(confirm("Skip obligatory generic cliché intro ?")){
-    xac.isGrateful();
-}else{
-    xac.describeSelf();
+if (confirm("Skip obligatory generic cliché intro ?")) {
+	xac.isGrateful();
+} else {
+	xac.describeSelf();
 }
 ```
 
 </divp>
 </details>
-
-
