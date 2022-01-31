@@ -144,7 +144,7 @@
 ### Who I am
 
 <details><summary>Someone who focuses on the how and the what...</summary>
-<divp>
+<div>
 
 ```js
 import getIntro from "obligatoryGenericClicheIntro.js";
@@ -164,14 +164,14 @@ class User {
 	}
 }
 
-const xac = new User("Xavier", "App. Developper");
+const xvr = new User("Xavier", "App. Developper");
 
 if (confirm("Skip obligatory generic cliché intro ?")) {
-	xac.isGrateful();
+	xvr.isGrateful();
 } else {
-	xac.describeSelf();
+	xvr.describeSelf();
 }
 ```
 
-</divp>
+</div>
 </details>
