@@ -1,3 +1,39 @@
+### Who I am
+
+Someone who focuses on the how and the what...
+<div>
+
+```js
+import getIntro from "obligatoryGenericClicheIntro.js";
+
+class User {
+	constructor(name, profession) {
+		this.name = name;
+		this.profession = profession;
+	}
+
+	describeSelf() {
+		alert(getIntro(this.name, this.profession));
+	}
+
+	isGrateful() {
+		alert(`${this.name} is happy to skip the boring part.`);
+	}
+}
+
+const xvr = new User("Xavier", "App. Developper");
+
+if (confirm("Skip obligatory generic cliché intro ?")) {
+	xvr.isGrateful();
+} else {
+	xvr.describeSelf();
+}
+```
+
+</div>
+
+---
+
 ### What I do
 
 -   Web & app developement
@@ -16,9 +52,10 @@
 
 ---
 
-### Skills
 
-<details><summary>And tools of the trade</summary>
+
+### Skills And tools of the trade
+
 <div>
 
 <section style="display: flex; flex-direction: row;">
@@ -137,41 +174,3 @@
 -->
 
 </p>
-</details>
-
----
-
-### Who I am
-
-<details><summary>Someone who focuses on the how and the what...</summary>
-<div>
-
-```js
-import getIntro from "obligatoryGenericClicheIntro.js";
-
-class User {
-	constructor(name, profession) {
-		this.name = name;
-		this.profession = profession;
-	}
-
-	describeSelf() {
-		alert(getIntro(this.name, this.profession));
-	}
-
-	isGrateful() {
-		alert(`${this.name} is happy to skip the boring part.`);
-	}
-}
-
-const xvr = new User("Xavier", "App. Developper");
-
-if (confirm("Skip obligatory generic cliché intro ?")) {
-	xvr.isGrateful();
-} else {
-	xvr.describeSelf();
-}
-```
-
-</div>
-</details>
