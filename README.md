@@ -1,6 +1,6 @@
 ### Who I am
 
-Someone who focuses on the how and the what...
+<details><summary>Someone who focuses on the how and the what...</summary>
 <div>
 
 ```js
@@ -31,6 +31,7 @@ if (confirm("Skip obligatory generic cliché intro ?")) {
 ```
 
 </div>
+</details>
 
 ---
 
@@ -54,8 +55,8 @@ if (confirm("Skip obligatory generic cliché intro ?")) {
 
 
 
-### Skills And tools of the trade
-
+### Skills
+<details><summary>And tools of the trade...</summary>
 <div>
 
 <section style="display: flex; flex-direction: row;">
@@ -174,3 +175,4 @@ if (confirm("Skip obligatory generic cliché intro ?")) {
 -->
 
 </p>
+</details>
