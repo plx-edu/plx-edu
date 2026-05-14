@@ -37,7 +37,7 @@ if (confirm("Skip obligatory generic cliché intro ?")) {
 
 ### What I do
 
--   Web & app developement
+-   QA / Web & app developement
 -   Infographics & design
 -   Game developement
 
